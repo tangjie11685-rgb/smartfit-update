@@ -1,6 +1,6 @@
 {
-          "versionCode": 5,
-          "versionName": "1.1.3",
-          "url": "https://cdn.jsdelivr.net/gh/tangjie11685-rgb/smartfit-update@main/smartfit-v1.1.3.apk",
-          "notes": "修复：远程升级安装权限（REQUEST_INSTALL_PACKAGES）；未授权时自动跳转系统授权页。"
+            "versionCode": 6,
+            "versionName": "1.1.4",
+            "url": "https://cdn.jsdelivr.net/gh/tangjie11685-rgb/smartfit-update@main/smartfit-v1.1.4.apk",
+            "notes": "v1.1.4 多源自动容错升级：jsDelivr + Gitee 双更新源，任一源可达即可升级，不翻墙也能升级。"
 }
