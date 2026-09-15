@@ -1,6 +1,6 @@
 {
-            "versionCode": 6,
-            "versionName": "1.1.4",
-            "url": "https://cdn.jsdelivr.net/gh/tangjie11685-rgb/smartfit-update@main/smartfit-v1.1.4.apk",
-            "notes": "v1.1.4 多源自动容错升级：jsDelivr + Gitee 双更新源，任一源可达即可升级，不翻墙也能升级。"
+  "versionCode": 8,
+  "versionName": "1.3.0",
+  "url": "https://cdn.jsdelivr.net/gh/tangjie11685-rgb/smartfit-update@main/smartfit-v1.3.0.apk",
+  "notes": "v1.3.0 新增：专属定制方案（按身高体重自动生成个人计划）+ 训练课程中心（10门语音跟练课）+ 减脂中心（热量预算、饮食记录、体重趋势、BMI）。"
 }
