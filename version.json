@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.4.0",
-  "url": "https://cdn.jsdelivr.net/gh/tangjie11685-rgb/smartfit-update@main/smartfit-v1.4.0.apk",
-  "notes": "v1.4.0 新增：升级下载进度条、运动音乐、成就徽章"
+  "versionCode": 10,
+  "versionName": "1.5.0",
+  "url": "https://cdn.jsdelivr.net/gh/tangjie11685-rgb/smartfit-update@main/smartfit-v1.5.0.apk",
+  "notes": "v1.5.0 运动音乐升级：曲库扩至 18 首、分类筛选、支持添加自选在线歌曲"
 }
