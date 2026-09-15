@@ -1,6 +1,6 @@
 {
-      "versionCode": 3,
-      "versionName": "1.1.1",
-      "url": "https://cdn.jsdelivr.net/gh/tangjie11685-rgb/smartfit-update@main/smartfit-v1.1.1.apk",
-      "notes": "修复：关于页版本号显示错误；更新源已切换到 CDN 加速。"
+        "versionCode": 4,
+        "versionName": "1.1.2",
+        "url": "https://cdn.jsdelivr.net/gh/tangjie11685-rgb/smartfit-update@main/smartfit-v1.1.2.apk",
+        "notes": "修复：关于页版本号显示错误；更新检查增加缓存穿透，OTA 更可靠；默认更新源已内置。"
 }
