@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.6.0",
-  "url": "https://cdn.jsdelivr.net/gh/tangjie11685-rgb/smartfit-update@main/smartfit-v1.6.0.apk",
-  "notes": "v1.6.0 训练课程新增火柴人 AI 动画示范：29 个动作循环动画演示，跟练页大屏示范 + 详情页点击预览动画与要领"
+    "versionCode": 12,
+    "versionName": "1.6.1",
+    "url": "https://cdn.jsdelivr.net/gh/tangjie11685-rgb/smartfit-update@main/smartfit-v1.6.1.apk",
+    "notes": "v1.6.1 修复课程页面闪退；卡路里按实际配速/爬升/体重动态计算；新增运动分享图（含 App 下载二维码）"
 }
