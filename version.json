@@ -1,4 +1,9 @@
 {
+  "versionCode": 17,
+  "versionName": "1.6.6",
+  "url": "https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.6.6/smartfit-v1.6.6.apk",
+  "notes": "v1.6.6 修复步数/步频：新增 BODY_SENSORS 计步权限申请，无计步传感器手机自动回退加速度计检测步数；步频改为最近 10 秒实时滚动计算。"
+}{
   "versionCode": 16,
   "versionName": "1.6.5",
   "url": "https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.6.5/smartfit-v1.6.5.apk",
