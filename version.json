@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.6.4",
-  "url": "https://cdn.jsdelivr.net/gh/tangjie11685-rgb/smartfit-update@main/smartfit-v1.6.4.apk",
-  "notes": "v1.6.4 真人动态示范：8 个核心动作（深蹲/平板支撑/俯卧撑/卷腹/开合跳/弓步蹲/臀桥/波比跳）由本地 ComfyUI 生成真人动作循环视频，课程详情页与跟练页直接播放，新手照着做；移除拟人动画，无视频动作回退真人静态图。"
+  "versionCode": 16,
+  "versionName": "1.6.5",
+  "url": "https://cdn.jsdelivr.net/gh/tangjie11685-rgb/smartfit-update@main/smartfit-v1.6.5.apk",
+  "notes": "v1.6.5 真人示范视频全面升级：改用 MiniMax-H3 高质量模型重做 8 个核心动作（开合跳/波比跳/臀桥/高抬腿/登山跑/深蹲跳/侧卧抬腿/站姿后踢腿），动作标准、幅度明显、连贯循环，新手照着做更直观。"
 }
