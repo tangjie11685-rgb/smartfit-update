@@ -15,7 +15,7 @@
 | **专属定制方案** | 输入身高/体重/年龄/性别，选择目标与偏好，自动生成 BMI、热量预算、蛋白质建议、目标体重与一周 7 天专属安排，可直接开始跑步/课程 |
 | **卡路里估算** | 按**实际平均配速动态查 MET**（快跑/慢跑分开计）+ **爬坡补偿**（爬山爬升越多消耗越高）+ **身高体重校准**（BMI 高者单位消耗略高），数值更贴合实际 |
 | **运动分享图** | 运动结束一键生成精美竖版成绩卡片（类型、距离、用时、配速、消耗、爬升、步数、步频、最大速度 + 激励语），**底部带 App 下载二维码——扫码直达 APK 安装包（免登录、免进仓库页）**，可分享微信/朋友圈 |
-| **训练课程中心** | 10 门语音跟练课（减脂/塑形/拉伸），全屏跟练 + 语音教练逐动作指导 + 结束统计；**全部 29 个动作带火柴人 AI 动画示范**（循环播放），跟练页大屏演示、课程详情页点击动作即可预览动画与要领，新手一看就会 |
+| **训练课程中心** | 10 门语音跟练课（减脂/塑形/拉伸），全屏跟练 + 语音教练逐动作指导 + 结束统计；**29 个动作全部配「真人教练示范图」+「Q 版拟人教练动画」（肤色四肢/运动服/短裤/五官，比火柴人直观得多）**，课程详情页与跟练页双处展示，新手照着做一看就会 |
 | **减脂中心** | 每日热量预算（Mifflin-St Jeor）、饮食记录与 26 种食物热量库、体重趋势曲线、BMI 状态 |
 | 数据统计 | 近 8 周 / 6 个月里程柱状图、个人最佳（最长距离、最快 1 公里、最大爬升、最佳配速） |
 | **成就徽章** | 10 枚徽章（首跑 / 累计里程 / 最快一公里 / 长跑 / 爬升 / 课程打卡 / 连续 7 天）按运动数据自动解锁，统计页展示 |
@@ -48,16 +48,16 @@ App 内置「检查更新」：依次轮询更新源列表中的每个 `version.
 取版本号最高的结果；若 `versionCode` 大于当前版本，自动下载新版 APK 并调起系统安装器完成升级。
 任一源可达即可升级——jsDelivr 与 Gitee 均为国内可直连的源，**不翻墙也能升级**。
 
-### 已部署的更新源（v1.6.2，双源容错）
+### 已部署的更新源（v1.6.3，双源容错）
 
 - GitHub 仓库：`https://github.com/tangjie11685-rgb/smartfit-update`（main 分支）
   - version.json（jsDelivr CDN，国内可直连）：`https://cdn.jsdelivr.net/gh/tangjie11685-rgb/smartfit-update@main/version.json`
-  - APK CDN 直链：`https://cdn.jsdelivr.net/gh/tangjie11685-rgb/smartfit-update@main/smartfit-v1.6.2.apk`
-  - Release 备份：`https://github.com/tangjie11685-rgb/smartfit-update/releases/tag/v1.6.2`
+  - APK CDN 直链：`https://cdn.jsdelivr.net/gh/tangjie11685-rgb/smartfit-update@main/smartfit-v1.6.3.apk`
+  - Release 备份：`https://github.com/tangjie11685-rgb/smartfit-update/releases/tag/v1.6.3`
 - Gitee 仓库（国内备份源）：`https://gitee.com/the-plump-buddha/smartfit-update`（master 分支）
   - version.json：`https://gitee.com/the-plump-buddha/smartfit-update/raw/master/version.json`
-  - APK 直链（发行版附件，≤100M）：`https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.6.2/smartfit-v1.6.2.apk`
-  - 下载页：`https://gitee.com/the-plump-buddha/smartfit-update/releases/tag/v1.6.2`
+  - APK 直链（发行版附件，≤100M）：`https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.6.3/smartfit-v1.6.3.apk`
+  - 下载页：`https://gitee.com/the-plump-buddha/smartfit-update/releases/tag/v1.6.3`
 - 分享图二维码指向 jsDelivr APK 直链（扫码即开始下载安装包，新手无需进仓库选文件）
 - App 内默认更新源为两行（jsDelivr + Gitee），可在 设置 → 更新源地址 中自行增删（每行一个 URL）
 - 本地维护文件：`update/version.json`（GitHub 版）、`update/version-gitee.json`（Gitee 版）、`update/version.json.example`（模板）

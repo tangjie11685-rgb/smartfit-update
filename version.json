@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.6.2",
-  "url": "https://cdn.jsdelivr.net/gh/tangjie11685-rgb/smartfit-update@main/smartfit-v1.6.2.apk",
-  "notes": "v1.6.2 分享图二维码改为 APK 直链：扫码直接下载安装包，无需进仓库页面，新手更友好。"
+  "versionCode": 14,
+  "versionName": "1.6.3",
+  "url": "https://cdn.jsdelivr.net/gh/tangjie11685-rgb/smartfit-update@main/smartfit-v1.6.3.apk",
+  "notes": "v1.6.3 拟人化教练升级：火柴人换成 Q 版拟人教练动画（肤色四肢/运动服/短裤/五官），29 个动作全部配真人教练示范图（课程详情页+跟练页展示），新手一看就会。"
 }
