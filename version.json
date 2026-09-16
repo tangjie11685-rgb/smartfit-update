@@ -1,6 +1,6 @@
 {
-    "versionCode": 12,
-    "versionName": "1.6.1",
-    "url": "https://cdn.jsdelivr.net/gh/tangjie11685-rgb/smartfit-update@main/smartfit-v1.6.1.apk",
-    "notes": "v1.6.1 修复课程页面闪退；卡路里按实际配速/爬升/体重动态计算；新增运动分享图（含 App 下载二维码）"
+  "versionCode": 13,
+  "versionName": "1.6.2",
+  "url": "https://cdn.jsdelivr.net/gh/tangjie11685-rgb/smartfit-update@main/smartfit-v1.6.2.apk",
+  "notes": "v1.6.2 分享图二维码改为 APK 直链：扫码直接下载安装包，无需进仓库页面，新手更友好。"
 }
