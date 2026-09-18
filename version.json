@@ -1,1 +1,1 @@
-{"versionCode":21,"versionName":"1.7.3","url":"https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.7.3/smartfit-v1.7.3.apk","notes":"参考微信运动重写计步：计步器只信增长数据，加速度计动态阈值，走路跑步都能计数"}
+{"versionCode":22,"versionName":"1.7.4","url":"https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.7.4/smartfit-v1.7.4.apk","notes":"修复卡路里偏高：改用有效体重修正(52+0.7*(体重-52))，大体重用户消耗更贴近实际"}
