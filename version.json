@@ -1,1 +1,1 @@
-{"versionCode":20,"versionName":"1.7.2","url":"https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.7.2/smartfit-v1.7.2.apk","notes":"修复步数/平均步频为0：优化权限请求+加速度计兜底计步，修复海拔/速度异常"}
+{"versionCode":21,"versionName":"1.7.3","url":"https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.7.3/smartfit-v1.7.3.apk","notes":"参考微信运动重写计步：计步器只信增长数据，加速度计动态阈值，走路跑步都能计数"}
