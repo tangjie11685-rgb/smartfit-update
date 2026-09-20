@@ -1,1 +1,1 @@
-{"versionCode":22,"versionName":"1.7.4","url":"https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.7.4/smartfit-v1.7.4.apk","notes":"修复卡路里偏高：改用有效体重修正(52+0.7*(体重-52))，大体重用户消耗更贴近实际"}
+{"versionCode":23,"versionName":"1.7.5","url":"https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.7.5/smartfit-v1.7.5.apk","notes":"真正修复步数：改用正确的ACTIVITY_RECOGNITION权限；智能教练按BMI调整配速护膝提示；海拔/GPS噪声过滤；卡路里再优化"}
