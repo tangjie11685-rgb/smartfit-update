@@ -1,1 +1,1 @@
-{"versionCode":23,"versionName":"1.7.5","url":"https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.7.5/smartfit-v1.7.5.apk","notes":"真正修复步数：改用正确的ACTIVITY_RECOGNITION权限；智能教练按BMI调整配速护膝提示；海拔/GPS噪声过滤；卡路里再优化"}
+{"versionCode":24,"versionName":"1.7.6","url":"https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.7.6/smartfit-v1.7.6.apk","notes":"新增对接小米Watch5/WearOS手表：通过Health Connect读取手表步数、心率、距离、卡路里"}
