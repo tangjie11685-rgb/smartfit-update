@@ -1,1 +1,1 @@
-{"versionCode":25,"versionName":"1.7.7","url":"https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.7.7/smartfit-v1.7.7.apk","notes":"修复爬山高度为0：GPS高度0值忽略、EMA调灵敏、累计阈值降到1m"}
+{"versionCode":26,"versionName":"1.7.8","url":"https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.7.8/smartfit-v1.7.8.apk","notes":"修复总爬升虚高：累计阈值调回3m、GPS速度限制降到12.6km/h"}
