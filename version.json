@@ -1,1 +1,1 @@
-{"versionCode":29,"versionName":"1.8.1","url":"https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.8.1/smartfit-v1.8.1.apk","notes":"修复AI连接地址+聊天记录持久化+键盘适配+AI读取全部运动数据"}
+{"versionCode":30,"versionName":"1.8.2","url":"https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.8.2/smartfit-v1.8.2.apk","notes":"AI服务器地址改为ZeroTier: 10.90.118.242:8080，不同WiFi也能连"}
