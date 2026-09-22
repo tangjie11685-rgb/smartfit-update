@@ -1,1 +1,1 @@
-{"versionCode":27,"versionName":"1.7.9","url":"https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.7.9/smartfit-v1.7.9.apk","notes":"新增AI私教聊天：对接本地llama-server，根据身高体重给运动建议"}
+{"versionCode":28,"versionName":"1.8.0","url":"https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.8.0/smartfit-v1.8.0.apk","notes":"修复AI私教超时：延长到180秒，AI可读取最近运动记录"}
