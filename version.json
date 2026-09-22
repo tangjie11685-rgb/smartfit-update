@@ -1,1 +1,1 @@
-{"versionCode":24,"versionName":"1.7.6","url":"https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.7.6/smartfit-v1.7.6.apk","notes":"新增对接小米Watch5/WearOS手表：通过Health Connect读取手表步数、心率、距离、卡路里"}
+{"versionCode":25,"versionName":"1.7.7","url":"https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.7.7/smartfit-v1.7.7.apk","notes":"修复爬山高度为0：GPS高度0值忽略、EMA调灵敏、累计阈值降到1m"}
