@@ -1,6 +1,1 @@
-{
-  "versionCode": 40,
-  "versionName": "1.12.0",
-  "url": "https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.12.0/smartfit-v1.12.0.apk",
-  "notes": "v1.12.0 健身房器械课程全面可视化：29个器械动作配真人示范图（练胸/练背/练肩/练腿/手臂/臀腿/核心/体能全覆盖，零基础到进阶到高阶分级），课程详情与跟练页均可照图学习；AI教练接入电脑本地大模型 Strata（Qwen3.6-35B），支持局域网/ZeroTier远程调用"
-}
+{"versionCode":41,"versionName":"1.12.1","url":"https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.12.1/smartfit-v1.12.1.apk","notes":"v1.12.1 AI地址更新：接入Strata最新端口8080，模型 qwen3.8-flash-next-iq3_xxs（支持图片输入，拍照识别食物可用）；局域网/ZeroTier双通道可达"}
