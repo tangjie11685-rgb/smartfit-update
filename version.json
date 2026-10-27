@@ -1,1 +1,6 @@
-{"versionCode":38,"versionName":"1.10.5","url":"https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.10.5/smartfit-v1.10.5.apk","notes":"碳循环饮食计划：高碳3天/中碳2天/低碳2天，按跑步5km+臂力棒100个设计"}
+{
+  "versionCode": 39,
+  "versionName": "1.11.0",
+  "url": "https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.11.0/smartfit-v1.11.0.apk",
+  "notes": "v1.11.0 全新健身房器械分化训练：练胸/练背/练肩/练腿/手臂/臀腿/核心七大部位周计划（零基础到高阶分级）+ 体能训练7门课程（心肺/力量/敏捷/HIIT/跳绳）+ AI摄像头动作教练（实时骨架、动作计数、语音纠错）"
+}
