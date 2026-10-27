@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "1.11.0",
-  "url": "https://gitee.com/the-plump-buddha/smartfit-update/releases/download/v1.11.0/smartfit-v1.11.0.apk",
-  "notes": "v1.11.0 全新健身房器械分化训练：练胸/练背/练肩/练腿/手臂/臀腿/核心七大部位周计划（零基础到高阶分级）+ 体能训练7门课程（心肺/力量/敏捷/HIIT/跳绳）+ AI摄像头动作教练（实时骨架、动作计数、语音纠错）"
+  "versionCode": 40,
+  "versionName": "1.12.0",
+  "url": "https://gitee.com/the-plump-buddha/smartfit-update/raw/master/smartfit-v1.12.0.apk",
+  "notes": "v1.12.0 健身房器械课程全面可视化：29个器械动作配真人示范图（练胸/练背/练肩/练腿/手臂/臀腿/核心/体能全覆盖，零基础-进阶-高阶分级），课程详情与跟练页均可照图学习；AI教练接入电脑本地大模型 Strata（Qwen3.6-35B），支持局域网/ZeroTier远程调用"
 }
